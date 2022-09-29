@@ -1,14 +1,6 @@
 # Motores de plantillas
-<style>
-ejss{
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 700;
-    color:#a91e50;
-    font-size: 70px;
-}
-</style>
 
-<ejss><%= EJS %></ejss>
+![EJS](https://cdn.codeforgeek.com/wp-content/uploads/2021/07/ejs_template_engine_in_nodejs.png)
 
 Proyecto utilizando **EJS** como motor de plantilla.
 
